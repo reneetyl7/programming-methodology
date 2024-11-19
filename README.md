@@ -1,3 +1,2 @@
 # programming-methodology
-fundamental training
-just to record my learning path
+fundamental training: just to record my learning path
